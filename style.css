@@ -20,6 +20,7 @@ a:link {
 }
 ul {
   list-style: none;
+  padding: 30px;
 }
 .navbar {
   display: inline-block;
