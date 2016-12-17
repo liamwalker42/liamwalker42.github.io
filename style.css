@@ -1,14 +1,25 @@
+* {
+  text-align: center;
+}
 h1 {
   font-size: 80px;
   color: White;
-  text-align: center;
   font-weight: 400;
-  font-family: cursive;
+  font-family: "Noto Serif", serif;
 }
 h2 {
   color: gold;
   font-family: "Noto Serif", serif;
   font-size: 24px;
+}
+a.hover {
+  background-color: White;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
 }
 .navbar {
   display: inline-block;
