@@ -12,7 +12,7 @@ h2 {
   font-family: "Noto Serif", serif;
   font-size: 24px;
 }
-li a:hover {
+a:hover {
   background-color: White;
 }
 a:link {
@@ -20,8 +20,9 @@ a:link {
 }
 li {
   list-style: none;
-  padding: 30px;
+  padding: 20px;
   display: inline-block;
+  float: left;
 }
 .navbar {
   width: 100%;
