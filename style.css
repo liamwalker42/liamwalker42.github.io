@@ -12,7 +12,7 @@ h2 {
   font-family: "Noto Serif", serif;
   font-size: 24px;
 }
-.navbar {
+/*.navbar {
   width: 100%;
   height: 100px;
 }
@@ -30,7 +30,7 @@ li {
 }
 li a:hover {
   background-color: White;
-}
+}*/
 ul {
     overflow: hidden;
     background-color: #333333;
